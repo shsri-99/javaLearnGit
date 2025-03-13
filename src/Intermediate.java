@@ -27,10 +27,10 @@ public class Intermediate {
            }
        }
        if (sum == n){
-           System.out.println(n + " is a perfect number");
+           System.out.println(n + " is a perfect numbers");
        }
        else {
-           System.out.println(n + " is not a perfect number");
+           System.out.println(n + " is not a perfect numbers");
        }
     }
 
