@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package basics;
+
 public class StringQuestions {
 
         public String reverseWords(String s) {

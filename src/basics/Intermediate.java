@@ -1,3 +1,5 @@
+package basics;
+
 import java.util.*;
 public class Intermediate {
     //Task 1: HCF of two numbers

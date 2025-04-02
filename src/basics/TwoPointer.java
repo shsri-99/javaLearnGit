@@ -1,5 +1,6 @@
+package basics;
+
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class TwoPointer {
     public static boolean PythagoreanTriplets(int [] numbers){

@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package basics;
+
 import java.util.Scanner;
 public class Methods {
     public static int Min(int a, int b, int c){

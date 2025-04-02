@@ -1,4 +1,4 @@
-/*
+package basics;/*
 Here we are doing a selection sort and we are trying to implement multiple methods  for each task like swap and finding
 the max numbers.
  */
