@@ -1,4 +1,5 @@
-import java.util.*;
+package basics;
+
 import java.util.Arrays;
 public class LargetPerimeterArray {
     /*Get the largest value by sorting the array and reversing the array and call

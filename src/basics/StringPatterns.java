@@ -1,3 +1,5 @@
+package basics;
+
 /*Pattern1: Iterates through each row which is outer loop that should be equal to
 number of lines and second loop iterates for column which is less than each row in
  each line here.Pattern is string *

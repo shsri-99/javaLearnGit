@@ -1,3 +1,5 @@
+package basics;
+
 public class MaxProductOfThree {
     public static int threeMaxProduct(int[] nums) {
         // Initialize the variables to extremes

@@ -1,3 +1,5 @@
+package basics;
+
 import java.util.*;
 public  class ConditionalLoops {
 
@@ -94,7 +96,7 @@ public  class ConditionalLoops {
             //for (int i = 1;i<=2;i++) {
             //    int n = scanner.nextInt();
             //    factor(n);}                                                                            // ---Task 2
-            //int result = ConditionalLoops.subtractProductAndSum(n);                                   // ---Task 1
+            //int result = basics.ConditionalLoops.subtractProductAndSum(n);                                   // ---Task 1
             //System.out.println("Result is: "+result);
             //SumNumbers();                                                                              // ---Task 3
             //largestNum();                                                                              // ---Task 4

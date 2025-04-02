@@ -1,3 +1,5 @@
+package basics;
+
 public class GradeMarks {
     public static String Grade(int marks){
        String grade = " ";
